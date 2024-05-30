@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/uiyoungkim/uiyoungkim/blob/main/banner.png" />
-</p>
-
 <h1 align="center">
  ✨ Welcome to my Profile! ✨
 </h1>
