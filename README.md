@@ -24,7 +24,6 @@
  <img src="https://img.shields.io/badge/-SAP%20MDK-black?style=flat-square&logo=sap"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
- <img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins"/>
  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code"/>
 </p>
 ✨and some more....
