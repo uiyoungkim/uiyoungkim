@@ -43,7 +43,7 @@
 <h2 align="center"> 📫 How to reach me </h2>
  
 <p align="center">
- <a href="mailto:uiyoung.kim@evorait.com">
+ <a href="mailto:uiyoungkim.dev@gmail.com">
   <img src="https://img.shields.io/badge/-uiyoung.kim@evorait.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uiyoung.kim@evorait.com"/>
  </a>
  <a href="https://www.linkedin.com/in/uiyoungkim">
