@@ -52,9 +52,17 @@
  </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uiyoungkim&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiyoungkim&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src="https://streak-stats.demolab.com/?user=uiyoungkim&theme=radical&hide_border=false" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/uiyoungkim?style=flat-square&logo=github&color=black" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/uiyoungkim?style=flat-square&logo=github&color=black" alt="Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/uiyoungkim" alt="Contribution chart"/>
 </p>
